@@ -36,7 +36,7 @@ function endMove(e)
 				canBeDragged = false;
 				var h1 = document.querySelector('#myh1');
 				h1.style = "display: inline;";
-				h1.innerHTML = "Woo! You did it!";
+				h1.innerHTML = "Woo! You did it, I am happy!";
 			}
 		}
 
